@@ -1,0 +1,257 @@
+[ {
+  "_displayName_" : "Group - https://b092f53f-0f4a-4765-920d-dd5b67841d77",
+  "_keyword_" : "subscription",
+  "created" : "2016-11-24 17:15:42",
+  "createdById" : 1,
+  "id" : 193,
+  "modified" : "2016-11-24 17:15:42",
+  "modifiedById" : 1,
+  "subscriptionPackageId" : 154,
+  "userGroupId" : 404
+}, {
+  "_displayName_" : "Group - https://85822888-c1b2-40f3-b7dd-e2968f844237",
+  "_keyword_" : "subscription",
+  "created" : "2016-11-24 17:15:40",
+  "createdById" : 1,
+  "expiry" : "2017-01-07 00:00:00",
+  "id" : 192,
+  "modified" : "2016-11-24 17:15:41",
+  "modifiedById" : 1,
+  "subscriptionPackageId" : 153,
+  "userGroupId" : 403
+}, {
+  "_displayName_" : "Group - https://c09a7b91-1fad-43d8-bdd2-2829cb80ac1c",
+  "_keyword_" : "subscription",
+  "created" : "2016-11-24 17:15:37",
+  "createdById" : 1,
+  "id" : 191,
+  "modified" : "2016-11-24 17:15:37",
+  "modifiedById" : 1,
+  "subscriptionPackageId" : 152,
+  "userGroupId" : 402
+}, {
+  "_displayName_" : "Group - https://2bd22491-f379-45ba-83ed-68aec47fd189",
+  "_keyword_" : "subscription",
+  "created" : "2016-11-24 17:15:27",
+  "createdById" : 1,
+  "id" : 190,
+  "modified" : "2016-11-24 17:15:27",
+  "modifiedById" : 1,
+  "subscriptionPackageId" : 7,
+  "userGroupId" : 401
+}, {
+  "_displayName_" : "Group - https://305ffae1-b3d8-456b-b8ed-6da56711e6e1",
+  "_keyword_" : "subscription",
+  "created" : "2016-11-22 23:07:19",
+  "createdById" : 1,
+  "id" : 189,
+  "modified" : "2016-11-22 23:07:19",
+  "modifiedById" : 1,
+  "subscriptionPackageId" : 151,
+  "userGroupId" : 397
+}, {
+  "_displayName_" : "Group - https://993f9b96-cc91-4e7c-9c63-39030364b9c3",
+  "_keyword_" : "subscription",
+  "created" : "2016-11-22 23:07:16",
+  "createdById" : 1,
+  "expiry" : "2017-04-26 00:00:00",
+  "id" : 188,
+  "modified" : "2016-11-22 23:07:17",
+  "modifiedById" : 1,
+  "subscriptionPackageId" : 150,
+  "userGroupId" : 396
+}, {
+  "_displayName_" : "Group - https://37bdbe52-eb13-409d-8a10-e2306db71bf6",
+  "_keyword_" : "subscription",
+  "created" : "2016-11-22 23:07:13",
+  "createdById" : 1,
+  "id" : 187,
+  "modified" : "2016-11-22 23:07:13",
+  "modifiedById" : 1,
+  "subscriptionPackageId" : 149,
+  "userGroupId" : 395
+}, {
+  "_displayName_" : "Group - https://042cdd99-088d-4d08-9344-f2d478bf3b01",
+  "_keyword_" : "subscription",
+  "created" : "2016-11-22 23:07:06",
+  "createdById" : 1,
+  "id" : 186,
+  "modified" : "2016-11-22 23:07:06",
+  "modifiedById" : 1,
+  "subscriptionPackageId" : 7,
+  "userGroupId" : 394
+}, {
+  "_displayName_" : "Group - https://d8fd9442-80f9-49d2-8ce9-d31eb83f7ea7",
+  "_keyword_" : "subscription",
+  "created" : "2016-11-22 22:56:51",
+  "createdById" : 1,
+  "id" : 185,
+  "modified" : "2016-11-22 22:56:51",
+  "modifiedById" : 1,
+  "subscriptionPackageId" : 148,
+  "userGroupId" : 390
+}, {
+  "_displayName_" : "Group - https://d82cae8c-1624-41c1-89c7-40d51f6980b0",
+  "_keyword_" : "subscription",
+  "created" : "2016-11-22 22:56:49",
+  "createdById" : 1,
+  "expiry" : "2017-03-17 00:00:00",
+  "id" : 184,
+  "modified" : "2016-11-22 22:56:50",
+  "modifiedById" : 1,
+  "subscriptionPackageId" : 147,
+  "userGroupId" : 389
+}, {
+  "_displayName_" : "Group - https://681e8156-3717-4505-a34a-d2e42c56816f",
+  "_keyword_" : "subscription",
+  "created" : "2016-11-22 22:56:46",
+  "createdById" : 1,
+  "id" : 183,
+  "modified" : "2016-11-22 22:56:46",
+  "modifiedById" : 1,
+  "subscriptionPackageId" : 146,
+  "userGroupId" : 388
+}, {
+  "_displayName_" : "Group - https://ade0c523-ba00-41ff-8c03-5c29ba35ef21",
+  "_keyword_" : "subscription",
+  "created" : "2016-11-22 22:56:40",
+  "createdById" : 1,
+  "id" : 182,
+  "modified" : "2016-11-22 22:56:40",
+  "modifiedById" : 1,
+  "subscriptionPackageId" : 7,
+  "userGroupId" : 387
+}, {
+  "_displayName_" : "Group - https://3a89a692-4bbb-4a22-ad09-45b193be0f41",
+  "_keyword_" : "subscription",
+  "created" : "2016-11-22 22:47:10",
+  "createdById" : 1,
+  "id" : 181,
+  "modified" : "2016-11-22 22:47:10",
+  "modifiedById" : 1,
+  "subscriptionPackageId" : 145,
+  "userGroupId" : 383
+}, {
+  "_displayName_" : "Group - https://1363e2de-1e59-4987-bd96-2259de49266c",
+  "_keyword_" : "subscription",
+  "created" : "2016-11-22 22:47:07",
+  "createdById" : 1,
+  "expiry" : "2017-08-05 00:00:00",
+  "id" : 180,
+  "modified" : "2016-11-22 22:47:08",
+  "modifiedById" : 1,
+  "subscriptionPackageId" : 144,
+  "userGroupId" : 382
+}, {
+  "_displayName_" : "Group - https://09e4a187-c7c8-47a9-a2ab-6d31bba97e5e",
+  "_keyword_" : "subscription",
+  "created" : "2016-11-22 22:47:04",
+  "createdById" : 1,
+  "id" : 179,
+  "modified" : "2016-11-22 22:47:04",
+  "modifiedById" : 1,
+  "subscriptionPackageId" : 143,
+  "userGroupId" : 381
+}, {
+  "_displayName_" : "Group - https://a9ea459a-70fe-46a9-9740-5d2c8d76e849",
+  "_keyword_" : "subscription",
+  "created" : "2016-11-22 22:46:56",
+  "createdById" : 1,
+  "id" : 178,
+  "modified" : "2016-11-22 22:46:56",
+  "modifiedById" : 1,
+  "subscriptionPackageId" : 7,
+  "userGroupId" : 380
+}, {
+  "_displayName_" : "Group - https://acfe7dbf-2478-4a3e-a879-22eb5c044ee2",
+  "_keyword_" : "subscription",
+  "created" : "2016-11-22 22:30:19",
+  "createdById" : 1,
+  "id" : 177,
+  "modified" : "2016-11-22 22:30:19",
+  "modifiedById" : 1,
+  "subscriptionPackageId" : 142,
+  "userGroupId" : 376
+}, {
+  "_displayName_" : "Group - https://bb230fbb-d20d-4ef9-8818-8a13408f4454",
+  "_keyword_" : "subscription",
+  "created" : "2016-11-22 22:30:14",
+  "createdById" : 1,
+  "expiry" : "2016-12-23 00:00:00",
+  "id" : 176,
+  "modified" : "2016-11-22 22:30:15",
+  "modifiedById" : 1,
+  "subscriptionPackageId" : 141,
+  "userGroupId" : 375
+}, {
+  "_displayName_" : "Group - https://b1a4cba2-167d-42d4-ae86-a155b7a74f71",
+  "_keyword_" : "subscription",
+  "created" : "2016-11-22 22:30:08",
+  "createdById" : 1,
+  "id" : 175,
+  "modified" : "2016-11-22 22:30:08",
+  "modifiedById" : 1,
+  "subscriptionPackageId" : 140,
+  "userGroupId" : 374
+}, {
+  "_displayName_" : "Group - https://28d4bbee-a48a-4fcf-9cce-a34c470ea57d",
+  "_keyword_" : "subscription",
+  "created" : "2016-11-22 22:29:49",
+  "createdById" : 1,
+  "id" : 174,
+  "modified" : "2016-11-22 22:29:49",
+  "modifiedById" : 1,
+  "subscriptionPackageId" : 7,
+  "userGroupId" : 373
+}, {
+  "_displayName_" : "Group - https://sptdev.atlassian.net",
+  "_keyword_" : "subscription",
+  "created" : "2016-11-22 21:46:28",
+  "createdById" : 1,
+  "id" : 173,
+  "modified" : "2016-11-22 21:46:28",
+  "modifiedById" : 1,
+  "subscriptionPackageId" : 3,
+  "userGroupId" : 371
+}, {
+  "_displayName_" : "Group - https://sptdev.atlassian.net",
+  "_keyword_" : "subscription",
+  "created" : "2016-11-22 21:42:24",
+  "createdById" : 1,
+  "id" : 172,
+  "modified" : "2016-11-22 21:42:24",
+  "modifiedById" : 1,
+  "subscriptionPackageId" : 2,
+  "userGroupId" : 371
+}, {
+  "_displayName_" : "Group - https://sptdev.atlassian.net",
+  "_keyword_" : "subscription",
+  "created" : "2016-11-22 21:42:03",
+  "createdById" : 1,
+  "id" : 171,
+  "modified" : "2016-11-22 21:42:03",
+  "modifiedById" : 1,
+  "subscriptionPackageId" : 7,
+  "userGroupId" : 371
+}, {
+  "_displayName_" : "Group - https://1cb77a0a-85d3-4fbe-b821-b734352c2f77",
+  "_keyword_" : "subscription",
+  "created" : "2016-11-20 16:17:07",
+  "createdById" : 1,
+  "id" : 170,
+  "modified" : "2016-11-20 16:17:07",
+  "modifiedById" : 1,
+  "subscriptionPackageId" : 139,
+  "userGroupId" : 364
+}, {
+  "_displayName_" : "Group - https://0a46ae02-fc1a-4b06-9651-73f008e1b0ba",
+  "_keyword_" : "subscription",
+  "created" : "2016-11-20 16:17:05",
+  "createdById" : 1,
+  "expiry" : "2017-03-06 00:00:00",
+  "id" : 169,
+  "modified" : "2016-11-20 16:17:06",
+  "modifiedById" : 1,
+  "subscriptionPackageId" : 138,
+  "userGroupId" : 363
+} ]
